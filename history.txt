@@ -1,0 +1,729 @@
+    1  list
+    2  apt list
+    3  cd Desktop/
+    4  ls
+    5  git clone https://github.com/kaleem99/umuzi.git
+    6  sudo apt install git
+    7  git clone https://github.com/kaleem99/umuzi.git
+    8  cd umuzi/
+    9  ls
+   10  nano umuzi-kaleem 
+   11  ls
+   12  cd Desktop/
+   13  ls
+   14  mkdir workspace
+   15  cd workspace
+   16  nano locate_find.sh
+   17  chmod 755
+   18  chmod 0700
+   19  chmod 0700 locate_find.sh 
+   20  ./locate_find.sh 
+   21  ls
+   22  git clone https://github.com/kaleem99/umuzi.git
+   23  ls
+   24  cd umuzi/
+   25  ls
+   26  mv CHANGELOG.md cohort.md README.md recruits.md summary.md umuzi.md ./workspace
+   27  mv CHANGELOG.md cohort.md README.md recruits.md summary.md umuzi.md /workspace
+   28  mv CHANGELOG.md cohort.md README.md recruits.md summary.md umuzi.md workspace/
+   29  mv CHANGELOG.md cohort.md README.md recruits.md summary.md umuzi.md /workspace
+   30  pwd
+   31  mv CHANGELOG.md cohort.md README.md recruits.md summary.md umuzi.md /home/recruit/Desktop/workspace
+   32  ls
+   33  cd ..
+   34  ls
+   35  ./locate_find.sh 
+   36  chmod 755 locate_find.sh 
+   37  ./locate_find.sh 
+   38  locate umuzi
+   39  ls
+   40  nano hello.sh
+   41  chmod +x hello.sh 
+   42  ./hello.sh 
+   43  rm hello.sh 
+   44  ls
+   45  nano locate_find.sh 
+   46  chmod 0700 locate_find.sh 
+   47  ./locate_find.sh 
+   48  locate umuzi
+   49  ls
+   50  cd
+   51  locate umuzi
+   52  ls
+   53  locate umuzi 
+   54  cd Desktop/
+   55  ls
+   56  locate kaleem
+   57  locate umuzi 
+   58  cd workspace/
+   59  locate umuzi 
+   60  ls
+   61  cd umuzi/
+   62  ls
+   63  cd
+   64  ls
+   65  cd Desktop/
+   66  ls
+   67  cd workspace/
+   68  ls
+   69  locate umuzi
+   70  locate md
+   71  clear
+   72  locate umuzi
+   73  ls
+   74  nano umuzi
+   75  ls
+   76  cd Desktop/
+   77  locate umuzi
+   78  sudo updatedb
+   79  locate umuzi
+   80  ls
+   81  cd workspace/
+   82  ls
+   83  nano locate_find.sh 
+   84  chmod 755 locate_find.sh 
+   85  ./locate_find.sh 
+   86  clear
+   87  ./locate_find.sh 
+   88  ls
+   89  nano locate_umuzi
+   90  ls
+   91  mv locate_umuzi locate_umuzi.sh
+   92  ls
+   93  chmod 755 locate_umuzi.sh 
+   94  ./locate_umuzi.sh 
+   95  ls
+   96  cat locate_umuzi.sh 
+   97  cat search_result.md 
+   98  clear
+   99  ls
+  100  nano concatenate.sh
+  101  chmod 755 concatenate.sh 
+  102  ./concatenate.sh 
+  103  ls
+  104  rm -r summary.md 
+  105  ls
+  106  nano cat_summary.md
+  107  chmod 755 cat_summary.md 
+  108  cat cat_summary.md 
+  109  cat summary.md
+  110  ls
+  111  ./cat_summary.md 
+  112  ls
+  113  cat summary.md
+  114  www
+  115  clear
+  116  cd
+  117  cd Documents/
+  118  ls
+  119  touch pad.md
+  120  ls
+  121  cd
+  122  ls
+  123  cd Desktop/
+  124  ls
+  125  touch work
+  126  ls
+  127  pwd
+  128  cd work
+  129  ls
+  130  rm work
+  131  mkdir work
+  132  ls
+  133  cd work
+  134  ls
+  135  mv pad.md pad_copy.md
+  136  ls
+  137  locate updatedb
+  138  cd -
+  139  ls
+  140  locate pad_copy.md
+  141  sudo updatedb
+  142  locate pad_copy.md
+  143  ls
+  144  cd ..
+  145  cd Desktop/
+  146  rm pad.md 
+  147  ls
+  148  cd work
+  149  ls
+  150  rm pad_copy.md 
+  151  ls
+  152  cd ..
+  153  ls
+  154  rmdir work
+  155  nano task5-2.sh
+  156  chmod 755 task5-2.sh 
+  157  ./task5-2.sh 
+  158  ls
+  159  cd work
+  160  pwd
+  161  cd
+  162  cd Documents/
+  163  ls
+  164  cp pad.md pad_copy.md /home/recruit/Desktop
+  165  /home/recruit/Desktop
+  166  ls
+  167  cp pad.md pad_copy.md /home/recruit/Desktop/work
+  168  cp pad.md /home/recruit/Desktop/work
+  169  ls
+  170  rm pad.md 
+  171  ls
+  172  task5-1.sh
+  173  nano task5-1.sh
+  174  ls
+  175  nano task5-1.sh
+  176  chmod 755 task5-1.sh 
+  177  ./task5-1.sh 
+  178  ls
+  179  nano task5-3.sh
+  180  chmod 755 task5-3.sh 
+  181  ./task5-3.sh 
+  182  nano task5-3.sh
+  183  chmod 755 task5-3.sh 
+  184  ./task5-3.sh 
+  185  nano task5-3.sh 
+  186  chmod 755 task5-3.sh 
+  187  ./task5-3.sh 
+  188  nano task5-3.sh 
+  189  chmod 755 task5-3.sh 
+  190  nano task5-3.sh 
+  191  ./task5-3.sh 
+  192  nano task5-3.sh 
+  193  chmod 0700 task5-3.sh
+  194  ./task5-3.sh
+  195  nano task5-3.sh
+  196  chmod 0700 task5-3.sh
+  197  ./task5-3.sh
+  198  ls
+  199  rm pad.md 
+  200  rm task5-1.sh 
+  201  rm task5-3.sh 
+  202  ls
+  203  nano task5-1.sh
+  204  chmod 0700 task5-1.sh 
+  205  ./task5-1.sh 
+  206  ls
+  207  cd 
+  208  cd Desktop/
+  209  ls
+  210  nano task5-2.sh 
+  211  nano task5-3.sh
+  212  chmod 0700 task5-3.sh 
+  213  ./task5-3.sh 
+  214  ls
+  215  cd
+  216  ls
+  217  sudo updatedb
+  218  nano task5-6.sh
+  219  chmod 0700 task5-6.sh 
+  220  ./task5-6.sh 
+  221  ls
+  222  cd Desktop/
+  223  ls
+  224  git clone https://github.com/kaleem99/Beginner-linux-challenges.git
+  225  ls
+  226  cd umuzi/
+  227  ls
+  228  cat umuzi-kaleem 
+  229  clear
+  230  cd ..
+  231  ls
+  232  cd Beginner-linux-challenges/
+  233  ls -la
+  234  cd task5/
+  235  ls -la
+  236  cd ..
+  237  ls
+  238  cd task3
+  239  cd Task3/
+  240  ls -la
+  241  cd ..
+  242  ls
+  243  mv task5/ Task5
+  244  ls
+  245  cd Task5
+  246  ls
+  247  ls -la
+  248  cd ..
+  249  ls
+  250  git add -A
+  251  git commit -m"adding 1 - 5"
+  252  git commit -m"adding1-6"
+  253  git config
+  254  git config --global
+  255  git config --Global
+  256  git commit -m"adding1-6"
+  257  ls
+  258  git config --global user.email "kaleemnike1@gmail.com"
+  259  git config --global user.name "kaleem"
+  260  git add -A
+  261  git commit -m"adding1-5"
+  262  git push
+  263  find . -name \*.pdf -print
+  264  sudo updatedb
+  265  find . -name \*.pdf -print
+  266  ls
+  267  cd Desktop/
+  268  touch umuzi.pdf MUB.pdf
+  269  ls
+  270  touch docs.pdf files.pdf information.pdf
+  271  ls
+  272  cd
+  273  find . -name \*.pdf -print
+  274  ls
+  275  l
+  276  ls
+  277  locate umuzi >> search_result.md
+  278  ls
+  279  cat search_result.md 
+  280  clear
+  281  find . -name \ *.pdf -print >> results_6-1.md
+  282  ls
+  283  cat results_6-1.md 
+  284  rm results_6-1.md 
+  285  find . -name \ *.pdf -print > results_6-1.md
+  286  ls
+  287  car results_6-1.md 
+  288  cat results_6-1.md 
+  289  rm results_6-1.md 
+  290  locate .pdf
+  291  locate *.pdf
+  292  locate *.pdf >> results_6-1.md
+  293  cat results_6-1.md 
+  294  clear
+  295  rm results_6-1.md 
+  296  ls
+  297  cd Desktop/
+  298  ls
+  299  rm results6-2
+  300  ls
+  301  nano task6-2.sh
+  302  chmod 0700 task6-2.sh 
+  303  ./task6-2.sh 
+  304  cat results6-2.md 
+  305  nano task6-2.sh
+  306  locate *.pdf >> results_6-1.md
+  307  cat results6-2.md 
+  308  cat results6-1.md 
+  309  ls
+  310  nano results_6-1.md 
+  311  rm results_6-1.md 
+  312  ls
+  313  rm results6-2.md 
+  314  nano task6-2.sh 
+  315  locate *.pdf
+  316  nano task6-2.sh 
+  317  ./task6-2.sh 
+  318  cat results6-2.md 
+  319  ls
+  320  -mtime n
+  321  -mtime +10
+  322  sudo apt install mtime
+  323  sudo updatedb
+  324  -mtime +10
+  325  find . -mtime -1 -print
+  326  ls
+  327  rm results6-2.md 
+  328  locate *.pdf >> results6-2.md
+  329  cat results6-2.md 
+  330  find . -mtime -1 -print
+  331  clear
+  332  recruit@recruit-Mecer-X102:~/Desktop$ find . -mtime -1 -print
+  333  .
+  334  ./Beginner-linux-challenges
+  335  ./Beginner-linux-challenges/Task5
+  336  ./Beginner-linux-challenges/Task5/task5-1.sh
+  337  ./Beginner-linux-challenges/Task5/task5-6.sh
+  338  ./Beginner-linux-challenges/Task5/task5-2.sh
+  339  ./Beginner-linux-challenges/Task5/pad.md
+  340  ./Beginner-linux-challenges/Task5/pad_copy.md
+  341  ./Beginner-linux-challenges/Task5/task5-3.sh
+  342  ./Beginner-linux-challenges/TASK4
+  343  ./Beginner-linux-challenges/TASK4/locate_find.sh
+  344  clear
+  345  ls
+  346  nano my_bio.md
+  347  ls
+  348  mkdir my_files
+  349  mv my_bio.md ./my_files/
+  350  ls
+  351  cd my_files/
+  352  ls
+  353  clear
+  354  cd
+  355  sudo apt update
+  356  sudo apt upgrade
+  357  sudo apt install
+  358  sudo apt install tree
+  359  cd Downloads/
+  360  ls
+  361  sudo dpkg -i code_1.43.1-1584515895_amd64.deb 
+  362  ls
+  363  cd
+  364  cd Documents/
+  365  ls
+  366  cp /home/recruit/Documents/MUBSlides.odp
+  367  pwd
+  368  cp /home/recruit/Downloads/MUBSlides.odp
+  369  cp /home/recruit/Downloads/MUBSlides.odp MUB
+  370  ls
+  371  cp /home/recruit/Downloads/MUBSlides.odp MUBSlides.odp
+  372  ls
+  373  clear
+  374  cd
+  375  cd Desktop/
+  376  ls
+  377  clear
+  378  ls
+  379  clear
+  380  cp /home/recuit/Desktop/Beginner-linux-chellenges BLC
+  381  cp /home/recuit/Desktop/Beginner-linux-challenges BLC
+  382  cp /home/recuit/Desktop/Beginner-linux-challenges
+  383  xlear
+  384  clear
+  385  ls
+  386  nano locate_umuzi.sh 
+  387  nano locate_find.sh 
+  388  chmod 0700 locate_find.sh 
+  389  ./locate_find.sh 
+  390  nano locate_umuzi.sh 
+  391  chmod 0700 locate_umuzi.sh 
+  392  ./locate_umuzi.sh 
+  393  cat search_result.md 
+  394  clear
+  395  ls
+  396  cd 
+  397  cd Desktop/
+  398  ls
+  399  cd
+  400  cd Documents/
+  401  ls
+  402  rm MUB MUBSlides.odp 
+  403  ls
+  404  touch pad.md
+  405  ls
+  406  cd ../Desktop/
+  407  ls
+  408  mkdir work
+  409  rm work
+  410  rmdir work
+  411  mkdir work
+  412  ls
+  413  cp pad.md /home/recruit/Documents/pad.md pad_copy.md
+  414  cd work
+  415  cp pad.md /home/recruit/Documents/pad.md pad_copy.md
+  416  cp /home/recruit/Documents/pad.md pad_copy.md
+  417  ls
+  418  locate updatedb
+  419  cd -
+  420  locate pad_copy.md
+  421  ls
+  422  nano task6-1.sh 
+  423  chmod 0700 task6-1.sh 
+  424  ./task6-1.sh 
+  425  nano task6-2.sh 
+  426  chmod 0700 task6-2.sh 
+  427  rm results6-2.md 
+  428  chmod 0700 task6-2.sh 
+  429  ./task6-2.sh 
+  430  ls
+  431  cat results6-2.md 
+  432  clear
+  433  find . -mtime -1 -print
+  434  nano my_bio.md
+  435  mkdir my_files
+  436  cd my_files/
+  437  cp /home/recruit/Desktop/my_bio.md 
+  438  cp /home/recruit/Desktop/my_bio.md my_bio.md 
+  439  ls
+  440  l
+  441  cd -
+  442  ls
+  443  clear
+  444  mkdir git-basic-exercises
+  445  cd git-basic-exercises/
+  446  ls
+  447  ls -a
+  448  git init
+  449  ls -a
+  450  git status
+  451  touch README.md
+  452  ls -a
+  453  git status
+  454  git log
+  455  git add README.md 
+  456  git status
+  457  git commit -m"initial commit"
+  458  git log
+  459  q
+  460  Q
+  461  q
+  462  git log
+  463  [master (root-commit) 2103b64] initial commit
+  464  1 file changed, 0 insertions(+), 0 deletions(-)
+  465  create mode 100644 README.md
+  466  git log
+  467  git log q
+  468  nano README.md 
+  469  cat README.md 
+  470  git status
+  471  git commit -m"2commit"
+  472  git commit -m"second commit"
+  473  nano README.md 
+  474  git commit -m"third commit"
+  475  git status
+  476  git add README.md 
+  477  git commit -m"second commit"
+  478  git log
+  479  q
+  480  sudo apt install python-q-text-as-data 
+  481  q
+  482  git checkout
+  483  clear
+  484  ls
+  485  rm README.md 
+  486  ls
+  487  cd -
+  488  ls
+  489  rmdir git-basic-exercises/
+  490  rmdir -r git-basic-exercises/
+  491  rm -r git-basic-exercises/
+  492  ls
+  493  cd git-basic-exercises/
+  494  ls
+  495  ls -la
+  496  cd ..
+  497  rmdir force. rm git-basic-exercises/
+  498  rm -rf git-basic-exercises/
+  499  ls
+  500  clear
+  501  mkdir git-basic-exercies
+  502  cd git-basic-exercies/
+  503  ls -a
+  504  git init
+  505  ls -a
+  506  git status
+  507  touch README.md
+  508  ls -a
+  509  git status
+  510  git log
+  511  git add README.md 
+  512  git status
+  513  git commit -m"initial commit"
+  514  git log
+  515  nano README.md 
+  516  cat README.md 
+  517  git status
+  518  git add README.md 
+  519  git commit -m"second commit"
+  520  nano README.md 
+  521  git add README.md 
+  522  git commit -m"third commit"
+  523  git log
+  524  git checkout
+  525  git checkout 783b269f94313c53c5be2f9e5aa432b7ffcbecf4
+  526  cat README.md 
+  527  git branch
+  528  git milkshake-flavours
+  529  git branch milkshake-flavours
+  530  git branch
+  531  git branch milkshake-flavours 
+  532  git checkout milkshake-flavours 
+  533  git branch
+  534  nano milkshakes.md
+  535  git status
+  536  git add milkshakes.md 
+  537  git commit -m"added initial flavours"
+  538  git log
+  539  git checkout master
+  540  git log
+  541  git branch history
+  542  git log
+  543  history > history.txt
+  544  gls
+  545  ls
+  546  git add history.txt 
+  547  git commit -m"added history"
+  548  git log
+  549  git checkout milkshake-flavours 
+  550  git log
+  551  ls
+  552  nano README.md 
+  553  git add README.md 
+  554  git commit -m"random readme changes"
+  555  git checkout history
+  556  cat README.md 
+  557  rm README.md
+  558  echo "booya" > README.md
+  559  ls
+  560  git add README.md 
+  561  git commit -m"rewrote readme"
+  562  git checkout master
+  563  ls
+  564  README.md
+  565  git log
+  566  git checkout milkshake-flavours
+  567  ls
+  568  git log
+  569  git checkout history
+  570  ls
+  571  git log
+  572  git checkout master
+  573  git merge milkshake-flavours
+  574  lsdkl
+  575  clear
+  576  ls
+  577  cd ..
+  578  ls
+  579  rm git-basic-exercies/
+  580  rm -rf git-basic-exercies/
+  581  ls
+  582  mkdir git-basic-exercises
+  583  ls
+  584  cd git-basic-exercises/
+  585  ls -a
+  586  git init
+  587  ls -a
+  588  git status
+  589  touch README.md
+  590  ls -a
+  591  git status
+  592  git log
+  593  git add README.md 
+  594  git status
+  595  git reset 
+  596  git status
+  597  git add README.md 
+  598  git commit -m "initial commit"
+  599  git log
+  600  git log q
+  601  git log 
+  602  nano README.md
+  603  cat README.md 
+  604  git stats
+  605  git status
+  606  git add README.md 
+  607  git commit -m"second commit"
+  608  nano README.md 
+  609  git add README.md 
+  610  git commit -m"third commit"
+  611  git log
+  612  git checkout  940dd10cd8415c6ae9ae996d60cc734f31612f7c
+  613  cat README.md
+  614  git checkout master
+  615  cat README.md
+  616  ls
+  617  git branch
+  618  git branch milkshake-flavours
+  619  git branch
+  620  git branch milkshake-flavours
+  621  git checkout
+  622  git branch 
+  623  git checkout milkshake-flavours 
+  624  git branch 
+  625  nano milkshakes.md
+  626  git status
+  627  ls
+  628  git add milkshakes.md 
+  629  git commit -m"added initial flavours"
+  630  git log
+  631  git checkout master 
+  632  git log
+  633  git branch
+  634  git branch history
+  635  git branch
+  636  git checkout history 
+  637  git log
+  638  history > history.txt
+  639  ls
+  640  git add history.txt 
+  641  git commit -m"added history"
+  642  git log
+  643  git checkout milkshake-flavours 
+  644  git branch
+  645  git log
+  646  nano README.md 
+  647  git add README.md 
+  648  git commit -m"random readme changes"
+  649  git checkout history 
+  650  cat README.md 
+  651  rm README.md
+  652  echo "booya" > README.md
+  653  ls
+  654  cat README.md 
+  655  git add README.md 
+  656  git commit -m
+  657  rm README.md
+  658  echo "booya" > README.md
+  659  git commit -m"rewrote readme"
+  660  git checkout master 
+  661  ls
+  662  git log
+  663  git checkout milkshake-flavours
+  664  ls
+  665  git log
+  666  git checkout history
+  667  ls
+  668  git log
+  669  git checkout master
+  670  git merge milkshake-flavours
+  671  ls
+  672  git log
+  673  git checkout master git merge history
+  674  git branch
+  675  git merge history
+  676  clear
+  677  ls
+  678  cd ..
+  679  rm -rf git-basic-exercises/
+  680  mkdir git-basic-exercises
+  681  cd git-basic-exercises/
+  682  ls -a
+  683  git init
+  684  ls -a
+  685  git status
+  686  touch README.md
+  687  ls -a
+  688  git status
+  689  git log
+  690  git add README.md 
+  691  git status
+  692  git reset
+  693  git status
+  694  git add README.md 
+  695  git commit -m "initial commit"
+  696  nano README.md
+  697  cat README.md 
+  698  git status
+  699  git add README.md 
+  700  git commit -m"second commit"
+  701  nano README.md 
+  702  git add README.md 
+  703  git commit -m"third commit"
+  704  git log
+  705  git checkout 9763d8471cf70af549a24ae61e753c0ad6b41980
+  706  cat README.md 
+  707  git checkout master
+  708  cat README.md 
+  709  ls
+  710  git branch
+  711  git branch milkshake-flavours
+  712  git branch
+  713  git branch milkshake-flavours
+  714  git checkout milkshake-flavours 
+  715  git branch
+  716  nano milkshakes.md
+  717  git status
+  718  git add milkshakes.md 
+  719  git commit -m"added initial flavours"
+  720  git log
+  721  git checkout master 
+  722  git log
+  723  git branch
+  724  git branch history
+  725  git branch
+  726  git checkout history 
+  727  git log
+  728  git branch
+  729  history > history.txt
